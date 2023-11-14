@@ -1,4 +1,4 @@
-# 🔗 Links
+# Links
 
 ## Mastodon
 
@@ -8,15 +8,11 @@
 * [うかどん](https://ukadon.shillest.net/@Tsuruhito979)
 * [kmyblue](https://kmy.blue/@Tsuruhito979)
 
-***
-
 ## Misskey
 
 * [えとねるん](https://msk.ilnk.info/@tsuruhito979)
 * [Calckey.jp](https://calckey.jp/@tsuruhito979)
 * [Misskey.io](https://misskey.io/@tsuruhito979)
-
-***
 
 * [X  (Twitter)](https://twitter.com/Tsuruhito979)
 * [Threads](https://www.threads.net/@tsuruhito979)
