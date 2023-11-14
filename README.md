@@ -2,15 +2,15 @@
 
 ## Mastodon
 
-* [Vivaldi Social](https://social.vivaldi.net/@tsuruhito979)
-* [Pawoo](https://pawoo.net/@Tsuruhito979)
+* [Vivaldi Social](https://social.vivaldi.net/@tsuruhito979) (main account)
+* [Pawoo](https://pawoo.net/@Tsuruhito979) (game account)
 * [Fedibird](https://fedibird.com/@Tsuruhito979)
 * [うかどん](https://ukadon.shillest.net/@Tsuruhito979)
 * [kmyblue](https://kmy.blue/@Tsuruhito979)
 
 ## Misskey
 
-* [えとねるん](https://msk.ilnk.info/@tsuruhito979)
+* [えとねるん](https://msk.ilnk.info/@tsuruhito979) (sub account)
 * [Calckey.jp](https://calckey.jp/@tsuruhito979)
 * [Misskey.io](https://misskey.io/@tsuruhito979)
 
@@ -25,4 +25,4 @@
 
 # icon
 
-- [Anal - スタンドガールR+]( https://twitter.com/hutosi_ari_11 )
+- [Anal - スタンドガールR+](https://twitter.com/hutosi_ari_11)
