@@ -1,4 +1,4 @@
-# Links
+# links
 
 ## Mastodon
 
@@ -13,6 +13,8 @@
 * [えとねるん](https://msk.ilnk.info/@tsuruhito979)
 * [Calckey.jp](https://calckey.jp/@tsuruhito979)
 * [Misskey.io](https://misskey.io/@tsuruhito979)
+
+## other
 
 * [X  (Twitter)](https://twitter.com/Tsuruhito979)
 * [Threads](https://www.threads.net/@tsuruhito979)
