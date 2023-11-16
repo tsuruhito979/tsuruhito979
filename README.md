@@ -10,7 +10,7 @@
 
 ## Misskey
 
-* [えとねるん](https://msk.ilnk.info/@tsuruhito979) (sub account)
+* [[Кйееееее]Этанерн Сацыяльная Сетка](https://msk.ilnk.info/@tsuruhito979) (sub account)
 * [Calckey.jp](https://calckey.jp/@tsuruhito979)
 * [Misskey.io](https://misskey.io/@tsuruhito979)
 
